@@ -1,0 +1,119 @@
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe.config
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.pdb
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\Tesseract.dll
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Form1.resources
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.exe
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.pdb
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\tessdata\vie.traineddata
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\x64\liblept172.dll
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\x64\libtesseract304.dll
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\x86\liblept172.dll
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\x86\libtesseract304.dll
+C:\Users\nguyenthao\Desktop\OCR_Vietnamese\OCR_Vietnamese\bin\Debug\Tesseract.xml
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\x86\liblept172.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\x86\libtesseract304.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\tessdata\vie.traineddata
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\Tesseract.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\x64\liblept172.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\x64\libtesseract304.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\AForge.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\AForge.Video.dll
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\AForge.xml
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\AForge.Video.xml
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.xml
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\Tesseract.xml
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.AssemblyReference.cache
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.SuggestedBindingRedirects.cache
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Form1.resources
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Properties.Resources.resources
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.GenerateResource.cache
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CoreCompileInputs.cache
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CopyComplete
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.exe
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.pdb
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe.config
+F:\Thực tập cs cn\ZFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.pdb
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Form1.resources
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.exe
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.pdb
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\x64\liblept172.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\x64\libtesseract304.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\x86\liblept172.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\x86\libtesseract304.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\tessdata\vie.traineddata
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe.config
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.pdb
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\AForge.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\AForge.Video.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\Tesseract.dll
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\AForge.xml
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\AForge.Video.xml
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\bin\Debug\Tesseract.xml
+C:\Users\LENOVO\Desktop\OCR_Final\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CopyComplete
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.AssemblyReference.cache
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.SuggestedBindingRedirects.cache
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Form1.resources
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.Properties.Resources.resources
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.GenerateResource.cache
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CoreCompileInputs.cache
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\x64\liblept172.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\x64\libtesseract304.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\x86\liblept172.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\x86\libtesseract304.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\tessdata\vie.traineddata
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe.config
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.exe
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\OCR_Vietnamese.pdb
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Buffers.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Memory.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Numerics.Vectors.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Encodings.Web.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Json.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.ValueTuple.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Tesseract.dll
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\AForge.Video.DirectShow.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Buffers.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Memory.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Numerics.Vectors.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Encodings.Web.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Text.Json.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\System.ValueTuple.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\bin\Debug\Tesseract.xml
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.csproj.CopyComplete
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.exe
+F:\Thực tập cs cn\ThiLai\ocrFinal\OCR_Vietnamese\obj\Debug\OCR_Vietnamese.pdb
